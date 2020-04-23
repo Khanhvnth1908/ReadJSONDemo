@@ -1,0 +1,26 @@
+<!DOCTYPE menu PUBLIC "-//OASIS//DTD DocBook V3.1//EN">
+<menu>
+    <header>Adobe SVG Viewer</header>
+    <item action="Open" id="Open">Open</item>
+    <item action="OpenNew" id="OpenNew">OpenNew</item>
+    <separator/>
+    <item action="ZoomIn" id="ZoomIn">ZoomIn</item>
+    <item action="ZoomOut" id="ZoomOut">ZoomOut</item>
+    <item action="OriginalView" id="OriginalView">OriginalView</item>
+    <separator/>
+    <item action="Quanlity" id="Quanlity">Quanlity</item>
+    <item action="Pause" id="Pause">Pause</item>
+    <item action="Mute" id="Mute">Mute</item>
+    <separator/>
+    <item action="Find" id="Find">Find..</item>
+    <item action="FindAgain" id="FindAgain">FindAgain</item>
+    <item action="Copy" id="Copy">Copy</item>
+    <item action="CopyAgain" id="CopyAgain">CopyAgain</item>
+    <item action="CopySVG" id="CopySVG">CopySVG</item>
+    <item action="ViewSVG" id="ViewSVG">ViewSVG</item>
+    <item action="ViewSource" id="ViewSource">ViewSource</item>
+    <item action="SaveAs" id="SaveAs">SaveAs</item>
+    <separator/>
+    <item action="Help" id="Help">Help</item>
+    <item action="About" id="About">About Adobe CVG Viewer...</item>
+</menu>

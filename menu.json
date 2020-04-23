@@ -1,0 +1,9 @@
+{
+    "id": "file",
+    "value": "File",
+      "menuitem": [
+        "value: new, onclick: CreateNewDoc()",
+        "value: Open, onclick: OpenDoc()",
+        "value: Close, onclick: closeDoc()"
+      ]
+}

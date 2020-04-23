@@ -1,0 +1,21 @@
+<!DOCTYPE glossary PUBLIC "-//OASIS//DTD DocBook V3.1//EN">
+<glossary>
+    <title>Example glossary</title>
+    <GlossDiv>
+        <title>S</title>
+        <GlossList>
+            <GlossEntry ID="SGML" SortAs="SGML">
+                <GlossTerm>Standard Generalized Markup Language</GlossTerm>
+                <Acronym>SGML</Acronym>
+                <Abbev>ISO 8879:1986</Abbev>
+                <GlossDef>
+                    <para>A-meta markup language, use to created markup language suck ad DocBook</para>
+                    <GlossSeeAlso OrtherTerm="GML">
+                        <GlossSeeAlso OrtherTerm="XML"></GlossSeeAlso>
+                    </GlossSeeAlso>
+                </GlossDef>
+                <GlossSeeAlso OrtherTerm="markup"></GlossSeeAlso>
+            </GlossEntry>
+        </GlossList>
+    </GlossDiv>
+</glossary>
